@@ -1,8 +1,35 @@
+<p align ="right"> <b>10/01/2022</b></p>
+
+![](https://img.shields.io/github/watchers/ferjml97/Test-DBA-Junior?style=social)  
+![MySQL](https://img.shields.io/badge/SQL-yellow?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-2B579A?style=flat&logo=mysql&logoColor=white)
+
 # Test-DBA-Junior 👨‍💻
 
-### Proposito
+### Descripción
 
-**`Diseñar, poblar y consultar información de una base de datos de una tienda en línea.`**
+Test de vacante para DBA Junior.
+
+### Propósito
+
+<div align = "center">
+  
+#### **`Diseñar, poblar y consultar información de una base de datos de una tienda en línea.`**
+
+</div>
+
+### Herramientas
+
+<div align = "center">
+  
+**Lenguaje:** _SQL_  
+**Gestor:** _MySQL_  
+**Otras herramientas:**  
+MySQL Workbench 8.0.27 MSI Installer
+|:---:|
+| [Descargar](https://dev.mysql.com/downloads/windows/installer/8.0.html) |
+  
+</div>
 
 ### Entregables
 
@@ -27,13 +54,25 @@ LLenar las tablas con información random. clientes, productos y facturación.
 
 Un archivo sql con las consultas de cada uno de los puntos solicitados 
 
-Generar los siguientes reportes:
+<div align = "center">
+<table>
+  <tr><th>Table 1 Heading 1 </th></tr>
+  <tr><td>
+    
+  | N° | Reporte | Check|
+  |:---:|:---:|:---:| 
+  | 1 | Clientes que han comprado más en valor.  | ✔️ |
+  | 2 | Clientes que han comprado más en cantidad.  | ✔️ |
+  | 3 | Productos más vendidos en valor.  | ✔️ |
+  | 4 | Productos más vendidos en cantidad.  | ✔️ |
+  | 5 | Productos menos vendidos en valor.  | ✔️ |
+  | 6 | Productos menos vendidos en cantidad.  | ✔️ |
+  | 7 | Valor de las ventas agrupadas por mes.  | ✔️ |
+  | 8 | Valor de las ventas agrupadas por producto y mes.  | ✔️ |
 
-1. Clientes que han comprado más en valor.
-2. Clientes que han comprado más en cantidad.
-3. Productos más vendidos en valor.
-4. Productos más vendidos en cantidad.
-5. Productos menos vendidos en valor.
-6. Productos menos vendidos en cantidad.
-7. Valor de las ventas agrupadas por mes.
-8. Valor de las ventas agrupadas por producto y mes.
+</table>
+</div>
+
+---
+✏❤ **@ferjml97** 
+
