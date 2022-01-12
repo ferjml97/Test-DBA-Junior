@@ -111,7 +111,7 @@ Tabla 1. Información de las tablas </br> </br>
 </br> 
 
 <pre>
-🟢 Realice un Forward Engineer del modelo hecho para obtener el <a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_DB.sql" target="_black"> <b> Script Model-DB </b> </a> para la creación de la base de datos. 
+🟢 Realice un Forward Engineer del modelo hecho para obtener el <a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_DB.sql" target="_black"> <b>Script Model-DB</b> </a> para la creación de la base de datos. 
 	<i> ( me parece convencional hacer el uso de este plus de la herramienta Workbench para facilitar el proceso ). </i> </br>
 </pre>
 ...🐱‍👤  </br>
@@ -170,8 +170,8 @@ Tabla 2. Consultas </br> </br>
 <summary> Evidencia #3 📑 </summary>
 </br>
 <pre>
-🟢 Elaboré los scripts correspondientes a las consultas de la tabla anterior de esta sección <a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_consultasDB.sql" target="_black"> <b> Script de CONSULTAS </b> </a>   
-&nbsp;&nbsp; de la Tabla 2. Consultas </br> 
+🟢 Elaboré los scripts correspondientes a las consultas de la tabla anterior de esta sección.
+	<a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_consultasDB.sql" target="_black"> <b> Script de CONSULTAS de la Tabla 2. Consultas </b> </a>  
 </pre>
 	
 ...🐱‍👤  </br>
