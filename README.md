@@ -43,6 +43,67 @@ Diseñar una base de datos que permita almacenar la información de:
 - **Productos** (_código, nombre, presentación, precio, impuesto_).
 - **Facturación** (_Debe contener la información del cliente, la fecha de venta y los productos vendidos_).
 
+<details open>
+<summary> Evidencia 📑 </summary>
+🟢 Descargué <a href="https://github.com/ferjml97/Test-DBA-Junior#herramientas" target="_black"> <b> MySQL Workbench 8.0.27 </b> </a> </br>  
+🟢 Creé el diagrama EER del modelo de la base de datos en el apartado de modelado de la herramienta. </br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (con ello, la creación de las tablas mencionadas anteriormente en este apartado ).  </br> </br>
+
+<div align = "center">
+ <b> Imagen Base de Datos </b> </br> </br>
+ <img src="https://github.com/ferjml97/Test-DBA-Junior/blob/main/img_modelo_DB.png" target="_black">
+</div> </br></br>
+
+<div align = "center">
+<table>
+  <tr align="center" > <td><b> Información de las Tablas: </b></td> </tr>
+  <tr><td>
+	  <table>
+		  <tr align="center" > <td> Clientes </td> <td> Productos </td> <td> Facturas </td> </tr>
+      <tr> <td>
+  
+  | Columna | Tipo dato |
+  |:--:|:--:|
+  | idCliente | int |
+  | nomCliente | varchar(45) |
+  | emailCliente | varchar(45) |
+  | direccionCliente | varchar(45) |
+ 
+  </td><td>
+
+  | Columna | Tipo dato |
+  |:--:|:--:|
+  | idProducto | int |
+  | codigoProducto | int |
+  | nombreProducto | varchar(45) |
+  | descripcionProducto | varchar(45) |
+  | precioProducto | float |
+  | impuestoProducto | float |
+
+  </td><td>
+
+  | Columna | Tipo dato |
+  |:--:|:--:|
+  | idFactura | int |
+  | codigoProductoFK | int |
+  | idClienteFK | int |
+  | fechaFactura | varchar(45) |
+
+  </td>
+      </tr>
+	  </table>    
+  </tr>
+</table>
+</div>
+</br> </br>
+
+...🐱‍👤  </br>
+
+
+
+</details>
+
+
 #### ✅ 2° Entregable
 
 Un archivo sql con los insert necesarios para poblar con información random.  
