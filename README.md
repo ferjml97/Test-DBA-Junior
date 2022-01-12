@@ -170,8 +170,10 @@ Tabla 2. Consultas </br> </br>
 <summary> Evidencia #3 📑 </summary>
 </br>
 <pre>
-🟢 Elaboré los scripts correspondientes a las consultas de la tabla anterior de esta sección.
-	<a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_consultasDB.sql" target="_black"> <b> Script de CONSULTAS de la Tabla 2. Consultas </b> </a>  
+🟢 Elaboré los scripts correspondientes a las consultas de la tabla anterior de esta sección. </br>
+	<div align = "center">
+	<a href="https://github.com/ferjml97/Test-DBA-Junior/blob/main/scripts/script_consultasDB.sql" target="_black"> <b> Script de CONSULTAS de la Tabla 2. Consultas </b></a> 
+	</iv>
 </pre>
 	
 ...🐱‍👤  </br>
