@@ -1,0 +1,60 @@
+USE test_dba_junior;
+INSERT INTO clientes (idCliente, nombreCliente, emailCliente, direccionCliente) 
+VALUES 
+	("1", "Francisco Garcia", "francp@gmail.com", "avenida 01"),
+	("2", "Ferdinand Joseph","rutrum.urna@outlook.edu","842-6097 Aenean Rd."),
+	("3", "Melinda Baker","ac.feugiat@google.couk","8716 Est, Road"),
+	("4", "David Wolfe","nibh.donec@google.couk","Ap #727-8211 Vestibulum Road"),
+	("5", "Kameko Burns","vestibulum.massa.rutrum@outlook.ca","305-2688 Primis Ave"),
+	("6", "Finn Casey","in.nec.orci@outlook.ca","Ap #383-6122 Etiam Street"),
+	("7", "Driscoll Hill","cras.dictum.ultricies@hotmail.edu","790-1752 Massa. Road"),
+	("8", "Ignacia Mcbride","diam@aol.org","Ap #132-2839 Volutpat. Road"),
+	("9", "Isadora Caldwell","nibh.sit.amet@outlook.edu","Ap #856-3009 Orci. Av."),
+	("10", "Rhonda Hart","vestibulum@icloud.com","328-4850 Phasellus Avenue"),
+	("11", "Gannon Cooley","cum.sociis@yahoo.com","209-375 Dictum St."),
+	("12", "Felicia Calhoun","dolor.elit@google.com","2786 Dolor Rd."),
+	("13", "Virginia Duffy","ornare.fusce.mollis@protonmail.org","Ap #630-9233 Leo, Avenue"),
+	("14", "Adria May","orci.phasellus@google.ca","P.O. Box 633, 8731 Eu, Avenue"),
+	("15", "Kirk Livingston","viverra.donec@icloud.couk","628-5848 Mollis. Rd."),
+	("16", "Aristotle Hamilton","erat.volutpat@yahoo.org","P.O. Box 647, 1873 Nam St."),
+	("17", "Yen Mcfarland","risus.quis@google.edu","762-6454 Ornare. St."),
+	("18", "Anika Wilcox","ligula@icloud.net","624-2748 Eget, Av."),
+	("19", "Amal Carey","id.sapien.cras@google.com","Ap #381-9762 Tincidunt St."),
+	("20", "Felix Holloway","sem.ut@hotmail.org","Ap #619-3918 Vivamus Avenue"),
+	("21", "Phillip Carver","nullam.suscipit.est@protonmail.org","766-6964 Libero Ave"),
+	("22", "Christian Meadows","elementum.purus@hotmail.couk","880-9271 A Av."),
+	("23", "Nero Levy","est.arcu@yahoo.ca","Ap #430-2164 Laoreet Rd."),
+	("24", "Martena Little","placerat.velit@yahoo.couk","917-9413 Risus. Rd."),
+	("25", "Irma York","dictum.eu@outlook.org","P.O. Box 859, 9167 Nascetur Avenue"),
+	("26", "Bree Dunlap","quisque.porttitor.eros@yahoo.ca","886-9307 Velit. Ave"),
+	("27", "Beverly Holman","aliquam.adipiscing@google.edu","P.O. Box 846, 7424 Pharetra Avenue"),
+	("28", "Lev Hill","fermentum.risus.at@icloud.net","Ap #700-9616 Nec, St."),
+	("29", "Trevor Roy","molestie.in.tempus@yahoo.net","1236 Adipiscing. Rd."),
+	("30", "Nomlanga Holland","fusce.mi.lorem@icloud.couk","862-5363 Risus. Rd."),
+	("31", "Summer Hutchinson","enim.nunc@google.net","Ap #930-6692 Rhoncus. Ave"),
+	("32", "Mercedes Banks","sapien.cursus@hotmail.com","662-9353 Pharetra. St."),
+	("33", "Ciaran Cochran","euismod.ac@outlook.edu","7007 Nascetur Ave"),
+	("34", "Fulton Rosario","suspendisse.dui@hotmail.couk","Ap #327-3128 Non, Ave"),
+	("35", "Cullen Sears","turpis.vitae@google.org","Ap #678-3468 Pharetra, Street"),
+	("36", "Stewart Holder","elementum@outlook.edu","P.O. Box 865, 3562 Fermentum Road"),
+	("37", "Lucian Hurst","in.at.pede@google.org","546-7672 Convallis Street"),
+	("38", "Chava Stone","dictum.magna.ut@outlook.edu","2105 Dolor. Road"),
+	("39", "Yetta Henson","bibendum.ullamcorper.duis@hotmail.net","P.O. Box 664, 6754 Duis St."),
+	("40", "Erica Rivers","fringilla.cursus@icloud.com","P.O. Box 536, 6531 Nam Ave"),
+	("41", "Caesar Russell","ut.nec@google.couk","540-5422 Diam Av."),
+	("42", "Moses Holland","molestie.sed.id@google.com","P.O. Box 685, 7563 Sapien, Rd."),
+	("43", "Dora Phelps","gravida.mauris@hotmail.org","Ap #521-3726 Orci, St."),
+	("44", "Garrett Hunter","enim.etiam@google.edu","773-6391 Aliquet Rd."),
+	("45", "Gary Vaughn","et@protonmail.ca","P.O. Box 527, 2138 Ac Avenue"),
+	("46", "Dylan Warner","integer.in@outlook.edu","631-2397 At St."),
+	("47", "Galvin Meyers","malesuada.vel.convallis@google.ca","9841 Nulla Avenue"),
+	("48", "Jayme Dillard","massa.rutrum@aol.ca","Ap #734-4896 Ut Road"),
+	("49", "Lucius Marks","ante.dictum.cursus@protonmail.org","Ap #314-1645 Non St."),
+	("50", "Peter Waters","rutrum@hotmail.edu","P.O. Box 418, 8152 Fringilla. St.");
+  
+  
+  
+  
+  
+
+
